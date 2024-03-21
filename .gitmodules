@@ -1,6 +1,7 @@
 [submodule "vendor/micropython"]
 	path = vendor/micropython
-	url = https://github.com/trezor/micropython.git
+	url = https://github.com/micropython/micropython.git
+	branch = v1.22.2
 [submodule "vendor/QR-Code-generator"]
 	path = vendor/QR-Code-generator
 	url = https://github.com/nayuki/QR-Code-generator.git
